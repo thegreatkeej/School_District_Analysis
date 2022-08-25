@@ -2,7 +2,7 @@
 Module 4
 
 ##	Overview of the School District Analysis
-###	In this module, we are analysing school district data from high 
+###	I am analysing school district data from high 
 	school funding and standardized tests. Our goal is to report and 
 	present an analysis that will give insights on performance patterns.
 	The aggregated analysis will help the school district make strategic
